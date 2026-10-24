@@ -1,0 +1,26 @@
+img {
+    width: 350px;
+}
+
+body {
+    text-align: center;
+    font-family: cursive;
+    background: rgb(245, 173, 207);
+    color: rgb(255, 196, 2);
+}
+
+p{
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 4.0rem;
+}
+
+p {
+    line-height: 0.2; 
+}
+
+h1 {
+    line-height: 0.5; 
+}
